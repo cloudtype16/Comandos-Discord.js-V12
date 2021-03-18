@@ -9,7 +9,7 @@
 [<img align="left" alt="HarutoHiroki | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][github]
 
 ### ☄ Si Quieres Ver Los Comandos Que Eh Subido Dale Click Aquí
-
+<img src="https://media.discordapp.net/attachments/789607447252828211/822198644211843112/Captura.PNG"/>
 
 [website]: #
 [twitter]: https://twitter.com/Azucarmorena28
