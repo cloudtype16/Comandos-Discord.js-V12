@@ -10,4 +10,9 @@
 [<img align="left" alt="HarutoHiroki | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
 [<img align="left" alt="HarutoHiroki | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][github]
 
+[website]: #
+[twitter]: https://twitter.com/Azucarmorena28
+[twitch]: https://www.twitch.tv/mrpajas28
+[discord]: https://discord.gg/2qB7bhsQ9M 
+[github]: https://github.com/AzucarMorena2006
 [server]: https://discord.gg/2qB7bhsQ9M
