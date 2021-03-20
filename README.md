@@ -8,10 +8,8 @@
 [<img align="left" alt="HarutoHiroki | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
 [<img align="left" alt="HarutoHiroki | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][github]
 
-- 📣 **Nota:** Estos comando estan echos para comando handler si no lo tienes asi tendras que adaptarlo o podras ver nuestro repositorio: [Estructura Handler](https://github.com/AzucarMorena2006/Estructura-handler)
-
-### ☄ Si Quieres Ver Los Comandos Que Eh Subido Dale Click Aquí
-<img align="left" src="https://media.discordapp.net/attachments/789607447252828211/822198644211843112/Captura.PNG"/><img align="right" width="200px" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif">
+### 🌌 Producto Final:
+<img src="https://cdn.discordapp.com/attachments/819313281276968992/822937928719138816/captura.png"/>
 
 [website]: #
 [twitter]: https://twitter.com/Azucarmorena28
@@ -19,4 +17,3 @@
 [discord]: https://discord.gg/2qB7bhsQ9M 
 [github]: https://github.com/AzucarMorena2006
 [server]: https://discord.gg/2qB7bhsQ9M
-
