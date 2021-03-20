@@ -4,7 +4,6 @@ module.exports = {
     name: "channellist",
     alias: ["canallist"],
     run: (client, message, args) => {
-  if(message.author.bot) return;
     if(message.guild.channels.size <= 0) return message.channel.send("<a:Nose:819313505689796609> **|** No hay canales.") 
     let no_categorias = new Array()
     let categorias = new Array() 
