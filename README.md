@@ -11,7 +11,7 @@
 - 📣 **Nota:** Estos comando estan echos para comando handler si no lo tienes asi tendras que adaptarlo o podras ver nuestro repositorio: [Estructura Handler](https://github.com/AzucarMorena2006/Estructura-handler)
 
 ### ☄ Si Quieres Ver Los Comandos Que Eh Subido Dale Click Aquí
-<img align="left" src="https://media.discordapp.net/attachments/789607447252828211/822198644211843112/Captura.PNG"/><img align="right" width="200px" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif">
+<img align="left" src="./docs/Captura"/><img align="right" width="200px" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif">
 
 [website]: #
 [twitter]: https://twitter.com/Azucarmorena28
