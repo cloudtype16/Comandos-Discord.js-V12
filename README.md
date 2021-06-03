@@ -1,5 +1,3 @@
-[<img align="rigth" src="https://cdn.discordapp.com/attachments/789607447252828211/822167211531304990/350kb.gif"/>][server]
-
 ### ☢ Redes Sociales
 
 - [<img align="left" alt="is-really.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -18,5 +16,5 @@
 [twitch]: https://www.twitch.tv/mrpajas28
 [discord]: https://discord.gg/2qB7bhsQ9M 
 [github]: https://github.com/AzucarMorena2006
-[server]: https://discord.gg/2qB7bhsQ9M
+
 
