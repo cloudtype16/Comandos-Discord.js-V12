@@ -13,7 +13,7 @@ module.exports = {
     const embed = new Discord.MessageEmbed()
     .setTitle(`🏳️‍🌈 ${user.displayName} 🏳️‍🌈`)
     .setDescription(`**Tu eres ${random}% gay**`)
-    .setColor(client.config.color)
+    .setColor('RANDOM')
 
     const messageToDelete = await message.channel.send(embed)
 
