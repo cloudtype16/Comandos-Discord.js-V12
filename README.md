@@ -6,7 +6,7 @@
 [<img align="left" alt="HarutoHiroki | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
 [<img align="left" alt="HarutoHiroki | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][github]
 
-- 📣 **Nota:** Estos comando estan echos para comando handler si no lo tienes asi tendras que adaptarlo o podras ver nuestro [repositorio](https://github.com/AzucarMorena2006/Estructura-handler)
+- 📣 **Nota:** *Estos comando estan echos para comando handler si no lo tienes asi tendras que adaptarlo o podras ver nuestro [repositorio](https://github.com/AzucarMorena2006/Estructura-handler)*
 
 ### ☄ Si Quieres Ver Los Comandos Que Eh Subido Dale Click Aquí
 <img align="left" src="./docs/Capturaa.PNG"/><img align="right" width="200px" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif">
